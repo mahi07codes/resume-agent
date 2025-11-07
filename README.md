@@ -6,7 +6,7 @@ RESUME-AGENT leverages artificial intelligence to help job seekers perfect their
 
 ## Live Demo
 
-Access the live application: [https://resume-agent-production.up.railway.app/]((https://resume-agent-967z.onrender.com/))
+Access the live application: [https://resume-agent-production.up.railway.app/]([(https://resume-agent-967z.onrender.com/)](https://resume-agent-967z.onrender.com/))
 
 ## Key Features
 
